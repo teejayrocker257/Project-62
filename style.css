@@ -1,0 +1,35 @@
+body {
+    text-align: center;
+}
+
+#heading {
+    background-color: gray;
+    font-weight: bold
+}
+
+img {
+    width: 150px;
+    height: 150px;
+}
+
+#profile {
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#myCarousel {
+    background-color: linear-gradient(#60ebeb 0%, #27ae60 100%);
+}
+
+#myCarousel img {
+    height: 300px;
+    width: 400px;
+    margin-top: 35px;
+}
+
+.carousel-inner p {
+    margin-bottom: 15px;
+    margin-top: 15px;
+    color: white;
+    font-size: 20px;
+}
